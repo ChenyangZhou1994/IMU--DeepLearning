@@ -1,2 +1,14 @@
-# IMU--DeepLearning
-IMU_DeepLearning
+# IMU--DeepLearning #
+
+
+主要分享DeepLearning和MachineLearning,同时也兼顾其他算法的学习.
+
+
+研一算法课的内容,我们每周学习都会兼顾得到,加强一下数据结构和算法基础内容.
+
+
+
+每周一次组会,每次组会时长大约3小时(具体时间讨论时间我们在群里再商量)
+
+
+推荐**自学内容**我会在9.5号公布.
