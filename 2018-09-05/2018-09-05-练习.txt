@@ -1,0 +1,14 @@
+1.用KNN来做Kaggle Pima印第安人的糖尿病预测
+网址:https://www.kaggle.com/uciml/pima-indians-diabetes-database
+做完提交到该网站即可.
+
+(1周)
+
+2.用C++或Java或Python手写一个KNN
+  数据集为Forge或其他数据集.
+
+(2周)
+
+10
+2 5 0
+1 3 1
